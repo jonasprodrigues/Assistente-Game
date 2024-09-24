@@ -29,7 +29,8 @@ lb_news = Listbox(main)
 
 ##########################
 # testes
-###########################3
+
+###########################
 
 # CUSTOMIZATION
 main['background'] = 'grey25'
