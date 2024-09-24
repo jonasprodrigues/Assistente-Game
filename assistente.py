@@ -28,7 +28,7 @@ l_results = Label(main, text='Menu - Ctrl + M')
 lb_news = Listbox(main)
 
 ##########################
-#testes
+# testes
 ###########################3
 
 # CUSTOMIZATION
